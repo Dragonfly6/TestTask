@@ -1,0 +1,23 @@
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('1', 'Vasya', '20', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('2', 'Anastasia', '16', TRUE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('3', 'Svetlana', '23', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('4', 'Yuriy', '31', TRUE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('5', 'Marina', '18', FALSE );
+
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('6', 'Dmitrii', '19', TRUE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('7', 'Nikita', '31', TRUE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('8', 'Alexey', '24', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('9', 'Marat', '56', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('10', 'Polina', '45', FALSE );
+
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('11', 'Regina', '32', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('12', 'Erik', '76', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('13', 'Daniil', '15', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('14', 'Rosa', '11', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('15', 'Zina', '33', FALSE );
+
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('16', 'Katya', '21', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('17', 'Daria', '23', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('18', 'Artur', '15', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('19', 'Maxim', '16', FALSE );
+INSERT INTO test.user (id, name, age, isAdmin) VALUE ('20', 'Mihail', '20', TRUE );
